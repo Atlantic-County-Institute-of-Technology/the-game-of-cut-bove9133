@@ -13,3 +13,5 @@ public class Main {
         }
     }
 }
+
+//All the time that was spent on card and deck made it so that I couldn't get main done
